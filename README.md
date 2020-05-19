@@ -2,7 +2,8 @@
 
 ## Description
 
-This box comes with everything you need to start using Truffle on RSK Network. It includes network configurations for Mainnet and Testnet.
+This box comes with everything you need to start using Truffle on RSK Network. It includes network configurations for Mainnet and Testnet. There is no need to clone or fork this repository, you just need to create a new directory. Inside the new directory, run the unbox command.
+
 
 ## Installation
 
