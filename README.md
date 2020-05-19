@@ -33,6 +33,11 @@ First ensure you are in a new and empty directory.
     compile
     migrate
     ```
+5. Finalize the Truffle develop console with the following:
+
+    ```shell
+    .exit 
+    ```
 
 **NOTE**: This truffle box is not a complete dapp.
 
